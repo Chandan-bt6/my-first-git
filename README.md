@@ -8,4 +8,4 @@ This is my first GitHub repository created while learning Git and GitHub.
 - How to commit changes
 - How to push a project to GitHub
 
-This repository is part of my learning journey 🚀
+This repository is part of my learning journey 
